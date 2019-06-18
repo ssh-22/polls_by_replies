@@ -8,5 +8,5 @@ Twitterで募集した坂道グループの個別握手会の当選確率を集�
 - リプライを募集する開始日, 終了日
 - .ENVファイルにCONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRETの記載
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
