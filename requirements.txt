@@ -1,0 +1,4 @@
+pandas==0.24.2
+python-dotenv==0.10.3
+regex==2019.6.8
+tweepy==3.7.0
