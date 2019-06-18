@@ -108,3 +108,4 @@ if __name__ == '__main__':
     members, winning_counter, application_counter = tweet.create_counter()
     difficult_lst, winning_counter, application_counter = tweet.count_by_member(members=members, winning_counter=winning_counter, application_counter=application_counter ,short_lst=short_lst)
     tweet.insert_csv(difficult_lst=difficult_lst, winning_counter=winning_counter, application_counter=application_counter)
+    
